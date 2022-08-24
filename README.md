@@ -24,7 +24,6 @@ Particles are classified into groups based on chain counts. Particles are then p
 
 *Particle_Radar_Trackpy.ipynb* Jupyter notebook used to run TrackPy.
 
-Associated **parameter files** are included to replicate the results found in the manuscript (.csv).
 
 ### General Algorithm Overview
 
