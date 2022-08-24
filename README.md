@@ -29,12 +29,15 @@ Associated **parameter files** are included to replicate the results found in th
 ## Getting Started
 *MATLAB Requirements*
 
-To use these files, you must have MATLAB installed.  Scripts were written using MATLAB R2021a. These algorithms use the Image Processing Toolbox and the Statistics and Machine Learning Toolbox.
+To use these files, you must have MATLAB installed.  Scripts were written using MATLAB R2021a. These algorithms use various toolboxes that must also be installed.
 
 *Other Prerequisites*
 
 
 [Trackpy](http://soft-matter.github.io/trackpy/v0.5.0/)
+
+and 
+
 [export_fig](https://github.com/altmany/export_fig/releases/tag/v3.21)
 
 
@@ -57,7 +60,7 @@ MATLAB related issues can be solved by viewing the [MATLAB documentation.](https
 
 ### Author
 
-* **Veronica Grebe** - [Weck Group, New York University](http://weckresearch.com/home)
+* **Veronica Grebe** - [Weck Group, New York University](http://weckresearchlab.com)
 
 For a full list of manuscript authors who contributed to the overall project, see the [manuscript](https://doi.org/10.1016/j.colcom.2022.100661).
 
