@@ -1,9 +1,9 @@
 function [tr tr_sorted results_sorted_particles] = process_tracking_data(howmanyframes, positions_per_frame, chains_per_frame)
 
 % ; NAME:
-% ; plot_single_frame
+% ; process_tracking_data
 % ; PURPOSE:
-% ; Plot the chain count in a single frame
+% ; Process the imported tracking data
 
 % ; CALLING SEQUENCE:
 % ; [tr tr_sorted results_sorted_particles] = process_tracking_data(howmanyframes, positions_per_frame, chains_per_frame)
